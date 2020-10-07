@@ -1,0 +1,10 @@
+D:\C sharp\10.07 Form\AppCaculator\AppCaculator\bin\Debug\AppCaculator.exe.config
+D:\C sharp\10.07 Form\AppCaculator\AppCaculator\bin\Debug\AppCaculator.exe
+D:\C sharp\10.07 Form\AppCaculator\AppCaculator\bin\Debug\AppCaculator.pdb
+D:\C sharp\10.07 Form\AppCaculator\AppCaculator\obj\Debug\AppCaculator.csprojAssemblyReference.cache
+D:\C sharp\10.07 Form\AppCaculator\AppCaculator\obj\Debug\AppCaculator.Form1.resources
+D:\C sharp\10.07 Form\AppCaculator\AppCaculator\obj\Debug\AppCaculator.Properties.Resources.resources
+D:\C sharp\10.07 Form\AppCaculator\AppCaculator\obj\Debug\AppCaculator.csproj.GenerateResource.cache
+D:\C sharp\10.07 Form\AppCaculator\AppCaculator\obj\Debug\AppCaculator.csproj.CoreCompileInputs.cache
+D:\C sharp\10.07 Form\AppCaculator\AppCaculator\obj\Debug\AppCaculator.exe
+D:\C sharp\10.07 Form\AppCaculator\AppCaculator\obj\Debug\AppCaculator.pdb

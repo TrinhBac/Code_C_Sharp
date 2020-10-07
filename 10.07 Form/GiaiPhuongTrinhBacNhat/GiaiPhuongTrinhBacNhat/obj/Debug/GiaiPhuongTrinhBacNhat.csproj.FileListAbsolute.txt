@@ -1,0 +1,10 @@
+D:\C sharp\10.07 Form\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.csprojAssemblyReference.cache
+D:\C sharp\10.07 Form\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.Form1.resources
+D:\C sharp\10.07 Form\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.Properties.Resources.resources
+D:\C sharp\10.07 Form\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.csproj.GenerateResource.cache
+D:\C sharp\10.07 Form\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.csproj.CoreCompileInputs.cache
+D:\C sharp\10.07 Form\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\bin\Debug\GiaiPhuongTrinhBacNhat.exe.config
+D:\C sharp\10.07 Form\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\bin\Debug\GiaiPhuongTrinhBacNhat.exe
+D:\C sharp\10.07 Form\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\bin\Debug\GiaiPhuongTrinhBacNhat.pdb
+D:\C sharp\10.07 Form\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.exe
+D:\C sharp\10.07 Form\GiaiPhuongTrinhBacNhat\GiaiPhuongTrinhBacNhat\obj\Debug\GiaiPhuongTrinhBacNhat.pdb
