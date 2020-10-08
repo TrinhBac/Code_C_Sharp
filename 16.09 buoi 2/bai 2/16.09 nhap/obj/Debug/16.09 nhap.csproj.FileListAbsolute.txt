@@ -1,0 +1,7 @@
+D:\C sharp\16.09 nhap\16.09 nhap\bin\Debug\16.09 nhap.exe.config
+D:\C sharp\16.09 nhap\16.09 nhap\bin\Debug\16.09 nhap.exe
+D:\C sharp\16.09 nhap\16.09 nhap\bin\Debug\16.09 nhap.pdb
+D:\C sharp\16.09 nhap\16.09 nhap\obj\Debug\16.09 nhap.csprojAssemblyReference.cache
+D:\C sharp\16.09 nhap\16.09 nhap\obj\Debug\16.09 nhap.csproj.CoreCompileInputs.cache
+D:\C sharp\16.09 nhap\16.09 nhap\obj\Debug\16.09 nhap.exe
+D:\C sharp\16.09 nhap\16.09 nhap\obj\Debug\16.09 nhap.pdb

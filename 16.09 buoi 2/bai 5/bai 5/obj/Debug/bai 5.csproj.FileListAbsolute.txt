@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\bai 5\bai 5\bin\Debug\bai 5.exe.config
+C:\Users\admin\source\repos\bai 5\bai 5\bin\Debug\bai 5.exe
+C:\Users\admin\source\repos\bai 5\bai 5\bin\Debug\bai 5.pdb
+C:\Users\admin\source\repos\bai 5\bai 5\obj\Debug\bai 5.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\bai 5\bai 5\obj\Debug\bai 5.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\bai 5\bai 5\obj\Debug\bai 5.exe
+C:\Users\admin\source\repos\bai 5\bai 5\obj\Debug\bai 5.pdb

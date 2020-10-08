@@ -1,0 +1,7 @@
+D:\C sharp\30.09 buoi 4\bai 1\bai 1\obj\Debug\bai 1.csprojAssemblyReference.cache
+D:\C sharp\30.09 buoi 4\bai 1\bai 1\obj\Debug\bai 1.csproj.CoreCompileInputs.cache
+D:\C sharp\30.09 buoi 4\bai 1\bai 1\bin\Debug\bai 1.exe.config
+D:\C sharp\30.09 buoi 4\bai 1\bai 1\bin\Debug\bai 1.exe
+D:\C sharp\30.09 buoi 4\bai 1\bai 1\bin\Debug\bai 1.pdb
+D:\C sharp\30.09 buoi 4\bai 1\bai 1\obj\Debug\bai 1.exe
+D:\C sharp\30.09 buoi 4\bai 1\bai 1\obj\Debug\bai 1.pdb

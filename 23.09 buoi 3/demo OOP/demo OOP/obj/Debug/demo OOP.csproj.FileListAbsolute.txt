@@ -1,0 +1,7 @@
+D:\C sharp\23.09 buoi 3\demo OOP\demo OOP\bin\Debug\demo OOP.exe.config
+D:\C sharp\23.09 buoi 3\demo OOP\demo OOP\bin\Debug\demo OOP.exe
+D:\C sharp\23.09 buoi 3\demo OOP\demo OOP\bin\Debug\demo OOP.pdb
+D:\C sharp\23.09 buoi 3\demo OOP\demo OOP\obj\Debug\demo OOP.csprojAssemblyReference.cache
+D:\C sharp\23.09 buoi 3\demo OOP\demo OOP\obj\Debug\demo OOP.csproj.CoreCompileInputs.cache
+D:\C sharp\23.09 buoi 3\demo OOP\demo OOP\obj\Debug\demo OOP.exe
+D:\C sharp\23.09 buoi 3\demo OOP\demo OOP\obj\Debug\demo OOP.pdb

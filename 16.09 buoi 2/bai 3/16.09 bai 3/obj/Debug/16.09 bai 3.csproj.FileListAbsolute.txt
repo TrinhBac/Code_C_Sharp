@@ -1,0 +1,7 @@
+D:\C sharp\16.09 bai 3\16.09 bai 3\bin\Debug\16.09 bai 3.exe.config
+D:\C sharp\16.09 bai 3\16.09 bai 3\bin\Debug\16.09 bai 3.exe
+D:\C sharp\16.09 bai 3\16.09 bai 3\bin\Debug\16.09 bai 3.pdb
+D:\C sharp\16.09 bai 3\16.09 bai 3\obj\Debug\16.09 bai 3.csprojAssemblyReference.cache
+D:\C sharp\16.09 bai 3\16.09 bai 3\obj\Debug\16.09 bai 3.csproj.CoreCompileInputs.cache
+D:\C sharp\16.09 bai 3\16.09 bai 3\obj\Debug\16.09 bai 3.exe
+D:\C sharp\16.09 bai 3\16.09 bai 3\obj\Debug\16.09 bai 3.pdb

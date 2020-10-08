@@ -1,0 +1,2 @@
+MaSanPham           TenSanPham          MauSac  SoLuongSanPham   GiaBanSanPham
+      001       Mi Tom Hao Hao             Den             200           10000

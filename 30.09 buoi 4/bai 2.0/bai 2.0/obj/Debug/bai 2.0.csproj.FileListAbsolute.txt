@@ -1,0 +1,7 @@
+D:\C sharp\30.09 buoi 4\bai 2.0\bai 2.0\bin\Debug\bai 2.0.exe.config
+D:\C sharp\30.09 buoi 4\bai 2.0\bai 2.0\bin\Debug\bai 2.0.exe
+D:\C sharp\30.09 buoi 4\bai 2.0\bai 2.0\bin\Debug\bai 2.0.pdb
+D:\C sharp\30.09 buoi 4\bai 2.0\bai 2.0\obj\Debug\bai 2.0.csprojAssemblyReference.cache
+D:\C sharp\30.09 buoi 4\bai 2.0\bai 2.0\obj\Debug\bai 2.0.csproj.CoreCompileInputs.cache
+D:\C sharp\30.09 buoi 4\bai 2.0\bai 2.0\obj\Debug\bai 2.0.exe
+D:\C sharp\30.09 buoi 4\bai 2.0\bai 2.0\obj\Debug\bai 2.0.pdb
