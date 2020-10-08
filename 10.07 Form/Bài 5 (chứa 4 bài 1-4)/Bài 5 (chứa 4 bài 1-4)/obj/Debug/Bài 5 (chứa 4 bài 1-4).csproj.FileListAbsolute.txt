@@ -1,0 +1,14 @@
+D:\C sharp\10.07 Form\Bài 5 (chứa 4 bài 1-4)\Bài 5 (chứa 4 bài 1-4)\bin\Debug\Bài 5 (chứa 4 bài 1-4).exe.config
+D:\C sharp\10.07 Form\Bài 5 (chứa 4 bài 1-4)\Bài 5 (chứa 4 bài 1-4)\bin\Debug\Bài 5 (chứa 4 bài 1-4).exe
+D:\C sharp\10.07 Form\Bài 5 (chứa 4 bài 1-4)\Bài 5 (chứa 4 bài 1-4)\bin\Debug\Bài 5 (chứa 4 bài 1-4).pdb
+D:\C sharp\10.07 Form\Bài 5 (chứa 4 bài 1-4)\Bài 5 (chứa 4 bài 1-4)\obj\Debug\Bài 5 (chứa 4 bài 1-4).csprojAssemblyReference.cache
+D:\C sharp\10.07 Form\Bài 5 (chứa 4 bài 1-4)\Bài 5 (chứa 4 bài 1-4)\obj\Debug\Bài_5__chứa_4_bài_1_4_.Properties.Resources.resources
+D:\C sharp\10.07 Form\Bài 5 (chứa 4 bài 1-4)\Bài 5 (chứa 4 bài 1-4)\obj\Debug\Bài 5 (chứa 4 bài 1-4).csproj.GenerateResource.cache
+D:\C sharp\10.07 Form\Bài 5 (chứa 4 bài 1-4)\Bài 5 (chứa 4 bài 1-4)\obj\Debug\Bài 5 (chứa 4 bài 1-4).csproj.CoreCompileInputs.cache
+D:\C sharp\10.07 Form\Bài 5 (chứa 4 bài 1-4)\Bài 5 (chứa 4 bài 1-4)\obj\Debug\Bài 5 (chứa 4 bài 1-4).exe
+D:\C sharp\10.07 Form\Bài 5 (chứa 4 bài 1-4)\Bài 5 (chứa 4 bài 1-4)\obj\Debug\Bài 5 (chứa 4 bài 1-4).pdb
+D:\C sharp\10.07 Form\Bài 5 (chứa 4 bài 1-4)\Bài 5 (chứa 4 bài 1-4)\obj\Debug\AppCaculator.MayTinh.resources
+D:\C sharp\10.07 Form\Bài 5 (chứa 4 bài 1-4)\Bài 5 (chứa 4 bài 1-4)\obj\Debug\GiaiPhuongTrinhBacNhat.GiaiPtBacNhat.resources
+D:\C sharp\10.07 Form\Bài 5 (chứa 4 bài 1-4)\Bài 5 (chứa 4 bài 1-4)\obj\Debug\Giảii_PT_Bậc_2.GiaiPtBacHai.resources
+D:\C sharp\10.07 Form\Bài 5 (chứa 4 bài 1-4)\Bài 5 (chứa 4 bài 1-4)\obj\Debug\Bài_5__chứa_4_bài_1_4_.Bai_5.resources
+D:\C sharp\10.07 Form\Bài 5 (chứa 4 bài 1-4)\Bài 5 (chứa 4 bài 1-4)\obj\Debug\bài_4__xếp_loại_hs.XepLoaiHs.resources
