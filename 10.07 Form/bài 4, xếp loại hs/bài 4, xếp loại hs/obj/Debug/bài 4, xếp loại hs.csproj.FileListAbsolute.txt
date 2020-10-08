@@ -1,0 +1,10 @@
+D:\C sharp\10.07 Form\bài 4, xếp loại hs\bài 4, xếp loại hs\bin\Debug\bài 4, xếp loại hs.exe.config
+D:\C sharp\10.07 Form\bài 4, xếp loại hs\bài 4, xếp loại hs\bin\Debug\bài 4, xếp loại hs.exe
+D:\C sharp\10.07 Form\bài 4, xếp loại hs\bài 4, xếp loại hs\bin\Debug\bài 4, xếp loại hs.pdb
+D:\C sharp\10.07 Form\bài 4, xếp loại hs\bài 4, xếp loại hs\obj\Debug\bài 4, xếp loại hs.csprojAssemblyReference.cache
+D:\C sharp\10.07 Form\bài 4, xếp loại hs\bài 4, xếp loại hs\obj\Debug\bài_4__xếp_loại_hs.Form1.resources
+D:\C sharp\10.07 Form\bài 4, xếp loại hs\bài 4, xếp loại hs\obj\Debug\bài_4__xếp_loại_hs.Properties.Resources.resources
+D:\C sharp\10.07 Form\bài 4, xếp loại hs\bài 4, xếp loại hs\obj\Debug\bài 4, xếp loại hs.csproj.GenerateResource.cache
+D:\C sharp\10.07 Form\bài 4, xếp loại hs\bài 4, xếp loại hs\obj\Debug\bài 4, xếp loại hs.csproj.CoreCompileInputs.cache
+D:\C sharp\10.07 Form\bài 4, xếp loại hs\bài 4, xếp loại hs\obj\Debug\bài 4, xếp loại hs.exe
+D:\C sharp\10.07 Form\bài 4, xếp loại hs\bài 4, xếp loại hs\obj\Debug\bài 4, xếp loại hs.pdb
