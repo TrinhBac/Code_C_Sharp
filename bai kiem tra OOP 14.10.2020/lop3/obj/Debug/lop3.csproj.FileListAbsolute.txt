@@ -1,0 +1,7 @@
+D:\C sharp\Nháp\lop3\lop3\obj\Debug\lop3.csprojAssemblyReference.cache
+D:\C sharp\Nháp\lop3\lop3\obj\Debug\lop3.csproj.CoreCompileInputs.cache
+D:\C sharp\Nháp\lop3\lop3\bin\Debug\lop3.exe.config
+D:\C sharp\Nháp\lop3\lop3\bin\Debug\lop3.exe
+D:\C sharp\Nháp\lop3\lop3\bin\Debug\lop3.pdb
+D:\C sharp\Nháp\lop3\lop3\obj\Debug\lop3.exe
+D:\C sharp\Nháp\lop3\lop3\obj\Debug\lop3.pdb
