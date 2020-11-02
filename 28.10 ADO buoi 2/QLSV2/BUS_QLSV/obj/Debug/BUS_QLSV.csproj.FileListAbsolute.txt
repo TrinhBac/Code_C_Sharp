@@ -1,0 +1,6 @@
+D:\C sharp\28.10 ADO buoi 2\QLSV2\BUS_QLSV\bin\Debug\BUS_QLSV.dll
+D:\C sharp\28.10 ADO buoi 2\QLSV2\BUS_QLSV\bin\Debug\BUS_QLSV.pdb
+D:\C sharp\28.10 ADO buoi 2\QLSV2\BUS_QLSV\obj\Debug\BUS_QLSV.csprojAssemblyReference.cache
+D:\C sharp\28.10 ADO buoi 2\QLSV2\BUS_QLSV\obj\Debug\BUS_QLSV.csproj.CoreCompileInputs.cache
+D:\C sharp\28.10 ADO buoi 2\QLSV2\BUS_QLSV\obj\Debug\BUS_QLSV.dll
+D:\C sharp\28.10 ADO buoi 2\QLSV2\BUS_QLSV\obj\Debug\BUS_QLSV.pdb

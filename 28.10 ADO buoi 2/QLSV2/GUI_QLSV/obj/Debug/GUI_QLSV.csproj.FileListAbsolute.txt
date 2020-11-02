@@ -1,0 +1,10 @@
+D:\C sharp\28.10 ADO buoi 2\QLSV2\GUI_QLSV\bin\Debug\GUI_QLSV.exe.config
+D:\C sharp\28.10 ADO buoi 2\QLSV2\GUI_QLSV\bin\Debug\GUI_QLSV.exe
+D:\C sharp\28.10 ADO buoi 2\QLSV2\GUI_QLSV\bin\Debug\GUI_QLSV.pdb
+D:\C sharp\28.10 ADO buoi 2\QLSV2\GUI_QLSV\obj\Debug\GUI_QLSV.csprojAssemblyReference.cache
+D:\C sharp\28.10 ADO buoi 2\QLSV2\GUI_QLSV\obj\Debug\GUI_QLSV.frmLop.resources
+D:\C sharp\28.10 ADO buoi 2\QLSV2\GUI_QLSV\obj\Debug\GUI_QLSV.Properties.Resources.resources
+D:\C sharp\28.10 ADO buoi 2\QLSV2\GUI_QLSV\obj\Debug\GUI_QLSV.csproj.GenerateResource.cache
+D:\C sharp\28.10 ADO buoi 2\QLSV2\GUI_QLSV\obj\Debug\GUI_QLSV.csproj.CoreCompileInputs.cache
+D:\C sharp\28.10 ADO buoi 2\QLSV2\GUI_QLSV\obj\Debug\GUI_QLSV.exe
+D:\C sharp\28.10 ADO buoi 2\QLSV2\GUI_QLSV\obj\Debug\GUI_QLSV.pdb

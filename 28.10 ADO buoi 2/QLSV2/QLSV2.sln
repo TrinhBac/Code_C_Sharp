@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS_QLSV", "BUS_QLSV\BUS_QLSV.csproj", "{6C4547B0-2865-4899-9B3D-926FE01F6432}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL_QLSV", "DAL_QLSV\DAL_QLSV.csproj", "{1DE10908-8A23-461B-9B55-2274301C87CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_QLSV", "GUI_QLSV\GUI_QLSV.csproj", "{BBFCEC23-5AA6-4D07-8A5C-BFC32B4480DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C4547B0-2865-4899-9B3D-926FE01F6432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C4547B0-2865-4899-9B3D-926FE01F6432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C4547B0-2865-4899-9B3D-926FE01F6432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C4547B0-2865-4899-9B3D-926FE01F6432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE10908-8A23-461B-9B55-2274301C87CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE10908-8A23-461B-9B55-2274301C87CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE10908-8A23-461B-9B55-2274301C87CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE10908-8A23-461B-9B55-2274301C87CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBFCEC23-5AA6-4D07-8A5C-BFC32B4480DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBFCEC23-5AA6-4D07-8A5C-BFC32B4480DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBFCEC23-5AA6-4D07-8A5C-BFC32B4480DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBFCEC23-5AA6-4D07-8A5C-BFC32B4480DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68F3018A-B35F-455D-9486-E8C811D7F301}
+	EndGlobalSection
+EndGlobal
