@@ -1,0 +1,10 @@
+D:\C sharp\28.10 ADO buoi 2\De_Ktra_Lan_2\De_Ktra_Lan_2\obj\Debug\De_Ktra_Lan_2.csprojAssemblyReference.cache
+D:\C sharp\28.10 ADO buoi 2\De_Ktra_Lan_2\De_Ktra_Lan_2\obj\Debug\De_Ktra_Lan_2.Form1.resources
+D:\C sharp\28.10 ADO buoi 2\De_Ktra_Lan_2\De_Ktra_Lan_2\obj\Debug\De_Ktra_Lan_2.Properties.Resources.resources
+D:\C sharp\28.10 ADO buoi 2\De_Ktra_Lan_2\De_Ktra_Lan_2\obj\Debug\De_Ktra_Lan_2.csproj.GenerateResource.cache
+D:\C sharp\28.10 ADO buoi 2\De_Ktra_Lan_2\De_Ktra_Lan_2\obj\Debug\De_Ktra_Lan_2.csproj.CoreCompileInputs.cache
+D:\C sharp\28.10 ADO buoi 2\De_Ktra_Lan_2\De_Ktra_Lan_2\bin\Debug\De_Ktra_Lan_2.exe.config
+D:\C sharp\28.10 ADO buoi 2\De_Ktra_Lan_2\De_Ktra_Lan_2\bin\Debug\De_Ktra_Lan_2.exe
+D:\C sharp\28.10 ADO buoi 2\De_Ktra_Lan_2\De_Ktra_Lan_2\bin\Debug\De_Ktra_Lan_2.pdb
+D:\C sharp\28.10 ADO buoi 2\De_Ktra_Lan_2\De_Ktra_Lan_2\obj\Debug\De_Ktra_Lan_2.exe
+D:\C sharp\28.10 ADO buoi 2\De_Ktra_Lan_2\De_Ktra_Lan_2\obj\Debug\De_Ktra_Lan_2.pdb
