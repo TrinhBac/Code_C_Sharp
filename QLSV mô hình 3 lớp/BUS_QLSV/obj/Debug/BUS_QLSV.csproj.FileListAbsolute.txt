@@ -1,0 +1,18 @@
+D:\C sharp\28.10 ADO buoi 2\QLSV\BUS_QLSV\bin\Debug\BUS_QLSV.dll
+D:\C sharp\28.10 ADO buoi 2\QLSV\BUS_QLSV\bin\Debug\BUS_QLSV.pdb
+D:\C sharp\28.10 ADO buoi 2\QLSV\BUS_QLSV\obj\Debug\BUS_QLSV.csprojAssemblyReference.cache
+D:\C sharp\28.10 ADO buoi 2\QLSV\BUS_QLSV\obj\Debug\BUS_QLSV.csproj.CoreCompileInputs.cache
+D:\C sharp\28.10 ADO buoi 2\QLSV\BUS_QLSV\obj\Debug\BUS_QLSV.dll
+D:\C sharp\28.10 ADO buoi 2\QLSV\BUS_QLSV\obj\Debug\BUS_QLSV.pdb
+D:\C sharp\28.10 ADO buoi 2\QLSV\BUS_QLSV\bin\Debug\DAL_QLSV.dll
+D:\C sharp\28.10 ADO buoi 2\QLSV\BUS_QLSV\bin\Debug\DAL_QLSV.pdb
+D:\C sharp\28.10 ADO buoi 2\QLSV\BUS_QLSV\obj\Debug\BUS_QLSV.csproj.CopyComplete
+D:\C sharp\28.10 ADO buoi 2\QLSV mô hình 3 lớp\BUS_QLSV\bin\Debug\BUS_QLSV.dll
+D:\C sharp\28.10 ADO buoi 2\QLSV mô hình 3 lớp\BUS_QLSV\bin\Debug\BUS_QLSV.pdb
+D:\C sharp\28.10 ADO buoi 2\QLSV mô hình 3 lớp\BUS_QLSV\bin\Debug\DAL_QLSV.dll
+D:\C sharp\28.10 ADO buoi 2\QLSV mô hình 3 lớp\BUS_QLSV\bin\Debug\DAL_QLSV.pdb
+D:\C sharp\28.10 ADO buoi 2\QLSV mô hình 3 lớp\BUS_QLSV\obj\Debug\BUS_QLSV.csprojAssemblyReference.cache
+D:\C sharp\28.10 ADO buoi 2\QLSV mô hình 3 lớp\BUS_QLSV\obj\Debug\BUS_QLSV.csproj.CoreCompileInputs.cache
+D:\C sharp\28.10 ADO buoi 2\QLSV mô hình 3 lớp\BUS_QLSV\obj\Debug\BUS_QLSV.csproj.CopyComplete
+D:\C sharp\28.10 ADO buoi 2\QLSV mô hình 3 lớp\BUS_QLSV\obj\Debug\BUS_QLSV.dll
+D:\C sharp\28.10 ADO buoi 2\QLSV mô hình 3 lớp\BUS_QLSV\obj\Debug\BUS_QLSV.pdb

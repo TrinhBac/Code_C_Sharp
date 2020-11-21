@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS_QLSV", "BUS_QLSV\BUS_QLSV.csproj", "{BA774BA7-AA7C-4056-A2BF-A2D9034CB288}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL_QLSV", "DAL_QLSV\DAL_QLSV.csproj", "{044DB224-BC64-4C49-A995-72FBEE86BB77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_QLSV", "GUI_QLSV\GUI_QLSV.csproj", "{044049A9-6FEE-4B58-876B-1A4CC102F715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA774BA7-AA7C-4056-A2BF-A2D9034CB288}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA774BA7-AA7C-4056-A2BF-A2D9034CB288}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA774BA7-AA7C-4056-A2BF-A2D9034CB288}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA774BA7-AA7C-4056-A2BF-A2D9034CB288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{044DB224-BC64-4C49-A995-72FBEE86BB77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044DB224-BC64-4C49-A995-72FBEE86BB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044DB224-BC64-4C49-A995-72FBEE86BB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044DB224-BC64-4C49-A995-72FBEE86BB77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{044049A9-6FEE-4B58-876B-1A4CC102F715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044049A9-6FEE-4B58-876B-1A4CC102F715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044049A9-6FEE-4B58-876B-1A4CC102F715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044049A9-6FEE-4B58-876B-1A4CC102F715}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C54B55E2-5550-41BC-9205-DCB8BAF6C788}
+	EndGlobalSection
+EndGlobal
