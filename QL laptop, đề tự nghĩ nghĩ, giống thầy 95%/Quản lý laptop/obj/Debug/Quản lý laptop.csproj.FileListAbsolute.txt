@@ -1,0 +1,10 @@
+D:\C sharp\28.10 ADO buoi 2\Quản lý laptop\Quản lý laptop\bin\Debug\Quản lý laptop.exe.config
+D:\C sharp\28.10 ADO buoi 2\Quản lý laptop\Quản lý laptop\bin\Debug\Quản lý laptop.exe
+D:\C sharp\28.10 ADO buoi 2\Quản lý laptop\Quản lý laptop\bin\Debug\Quản lý laptop.pdb
+D:\C sharp\28.10 ADO buoi 2\Quản lý laptop\Quản lý laptop\obj\Debug\Quản lý laptop.csprojAssemblyReference.cache
+D:\C sharp\28.10 ADO buoi 2\Quản lý laptop\Quản lý laptop\obj\Debug\Quản_lý_laptop.Form1.resources
+D:\C sharp\28.10 ADO buoi 2\Quản lý laptop\Quản lý laptop\obj\Debug\Quản_lý_laptop.Properties.Resources.resources
+D:\C sharp\28.10 ADO buoi 2\Quản lý laptop\Quản lý laptop\obj\Debug\Quản lý laptop.csproj.GenerateResource.cache
+D:\C sharp\28.10 ADO buoi 2\Quản lý laptop\Quản lý laptop\obj\Debug\Quản lý laptop.csproj.CoreCompileInputs.cache
+D:\C sharp\28.10 ADO buoi 2\Quản lý laptop\Quản lý laptop\obj\Debug\Quản lý laptop.exe
+D:\C sharp\28.10 ADO buoi 2\Quản lý laptop\Quản lý laptop\obj\Debug\Quản lý laptop.pdb
