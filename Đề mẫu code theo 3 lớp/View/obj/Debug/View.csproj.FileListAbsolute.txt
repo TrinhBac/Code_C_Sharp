@@ -1,0 +1,15 @@
+D:\C sharp\Đề mẫu code theo 3 lớp\View\bin\Debug\View.exe.config
+D:\C sharp\Đề mẫu code theo 3 lớp\View\bin\Debug\View.exe
+D:\C sharp\Đề mẫu code theo 3 lớp\View\bin\Debug\View.pdb
+D:\C sharp\Đề mẫu code theo 3 lớp\View\bin\Debug\Controller.dll
+D:\C sharp\Đề mẫu code theo 3 lớp\View\bin\Debug\Model.dll
+D:\C sharp\Đề mẫu code theo 3 lớp\View\bin\Debug\Controller.pdb
+D:\C sharp\Đề mẫu code theo 3 lớp\View\bin\Debug\Model.pdb
+D:\C sharp\Đề mẫu code theo 3 lớp\View\obj\Debug\View.csprojAssemblyReference.cache
+D:\C sharp\Đề mẫu code theo 3 lớp\View\obj\Debug\View.Form1.resources
+D:\C sharp\Đề mẫu code theo 3 lớp\View\obj\Debug\View.Properties.Resources.resources
+D:\C sharp\Đề mẫu code theo 3 lớp\View\obj\Debug\View.csproj.GenerateResource.cache
+D:\C sharp\Đề mẫu code theo 3 lớp\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+D:\C sharp\Đề mẫu code theo 3 lớp\View\obj\Debug\View.csproj.CopyComplete
+D:\C sharp\Đề mẫu code theo 3 lớp\View\obj\Debug\View.exe
+D:\C sharp\Đề mẫu code theo 3 lớp\View\obj\Debug\View.pdb

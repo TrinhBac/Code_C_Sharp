@@ -1,0 +1,6 @@
+D:\C sharp\Đề mẫu code theo 3 lớp\Model\bin\Debug\Model.dll
+D:\C sharp\Đề mẫu code theo 3 lớp\Model\bin\Debug\Model.pdb
+D:\C sharp\Đề mẫu code theo 3 lớp\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\C sharp\Đề mẫu code theo 3 lớp\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\C sharp\Đề mẫu code theo 3 lớp\Model\obj\Debug\Model.dll
+D:\C sharp\Đề mẫu code theo 3 lớp\Model\obj\Debug\Model.pdb

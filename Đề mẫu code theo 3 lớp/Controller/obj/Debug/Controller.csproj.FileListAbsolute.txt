@@ -1,0 +1,9 @@
+D:\C sharp\Đề mẫu code theo 3 lớp\Controller\bin\Debug\Controller.dll
+D:\C sharp\Đề mẫu code theo 3 lớp\Controller\bin\Debug\Controller.pdb
+D:\C sharp\Đề mẫu code theo 3 lớp\Controller\bin\Debug\Model.dll
+D:\C sharp\Đề mẫu code theo 3 lớp\Controller\bin\Debug\Model.pdb
+D:\C sharp\Đề mẫu code theo 3 lớp\Controller\obj\Debug\Controller.csprojAssemblyReference.cache
+D:\C sharp\Đề mẫu code theo 3 lớp\Controller\obj\Debug\Controller.csproj.CoreCompileInputs.cache
+D:\C sharp\Đề mẫu code theo 3 lớp\Controller\obj\Debug\Controller.csproj.CopyComplete
+D:\C sharp\Đề mẫu code theo 3 lớp\Controller\obj\Debug\Controller.dll
+D:\C sharp\Đề mẫu code theo 3 lớp\Controller\obj\Debug\Controller.pdb
